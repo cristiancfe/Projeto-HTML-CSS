@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+<meta charset="UTF-8">
+          <title>Página de curriculos</title>
+              <link href="format.css" rel="stylesheet" type="text/css">
+             
+  </head>
+  <body >
+      <header>
+            <h1>Formulário</h1>         
+      </header>
+      <article>
+      <h2>Área do cargo que deseja</h2>
+       <table border="0">
+       <div id="label">
+                    <tr>
+                    <td>
+                    <input type = "radio"  name="opcao" value="op1"> Administrativo
+                    
+                    <input type = "radio" name="opcao" value= "op2"> Técnico
+                                        
+                    <input type = "radio" name="opcao" value= "op3"> Operacioal
+                    
+                    <input type = "radio" name="opcao" value= "op4"> Estágio
+                    </td>
+                    </tr>
+                    <hr>
+                    </tr>
+                    </table>
+                     <hr>
+                     
+                  <h1>Preferência por Turno</h1>                                       
+                      <select name="Turno Disponível" id="border">
+                        <option value="xx">--- Escolha uma --- </option>
+                        <option value="gm"> Manhã </option>
+                        <option value="ford"> Tarde </option>
+                        <option value="fiat"> Noite </option>
+                        <option value="audi"> Não tenho preferência </option>                    
+                    </select>
+                    <br><br>                                     
+						  <fieldset id="border1">
+							 <br>
+							<legend> Conhecimentos em Informática </legend>		  
+						  
+                    <tr>
+                    <td>
+                    <input type = "checkbox" name="opcao" value="op1"> Excel
+                    <select name="Nível">
+                        <option value="xx" checked> -------- </option>
+                        <option value="bs"> Básico </option>
+                        <option value="int"> Intermediário </option>
+                        <option value="ava"> avançado </option>                                        
+                    </select>
+                    </td>
+                    <td>
+                    <input type = "checkbox" name="opcao" value="op2"> Word
+                    <select name="Nível">
+                        <option value="xx"> -------- </option>
+                        <option value="bs"> Básico </option>
+                        <option value="int"> Intermediário </option>
+                        <option value="ava"> avançado </option>                                       
+                    </select>
+                    </td>
+                     <td>
+                    <input type = "checkbox" name="opcao" value="op2"> Photoshop
+                    <select name="Nível">
+                        <option value="xx"> -------- </option>
+                        <option value="bs"> Básico </option>
+                        <option value="int"> Intermediário </option>
+                        <option value="ava"> avançado </option>                                      
+                    </select>
+                     <td>
+                    <input type = "checkbox" name="opcao" value="op2"> JavaScript
+                    <select name="Nível">
+                         <option value="xx"> -------- </option>
+                        <option value="bs"> Básico </option>
+                        <option value="int"> Intermediário </option>
+                        <option value="ava"> avançado </option>                                        
+                    </select>
+                     <td>
+                    <input type = "checkbox" name="opcao" value="op2"> PHP
+                    <select name="Nível">
+                         <option value="xx"> -------- </option>
+                        <option value="bs"> Básico </option>
+                        <option value="int"> Intermediário </option>
+                        <option value="ava"> avançado </option>                                       
+                    </select>
+                    </td>
+                    </tr>
+                    </div>
+                    
+                     </fieldset>                                                         
+						 	<form  id="formcenter" action="pagina5.html">		                
+                   	
+                    <h3><u>Conte um pouco de sua experiência e de você</u></h3> 
+                    
+                                 
+                    <textarea name="Obs" rows="10" cols="85">								
+														
+						  </textarea> 
+						  
+							<br>  
+   						  
+   						<input type="submit" class="button" value="Enviar" onclick = "alerta()"/>
+   						
+   						<input type="reset" class="button" value="Limpar" />                
+                     </form>  
+      </article>                   
+       
+      </body>
+ 
+              <script>
+              function alerta() {
+              	alert("Mensagem enviada com Sucesso!");
+              }
+					               
+              
+              </script>      
+      
+      <br>
+      <footer>
+       Desenvolvida por Cristian Fabiano Eisenhut -  Matricula 169871@ ADS - UPF / Passo Fundo - RS
+      </footer>
+      
+      </html>
+      

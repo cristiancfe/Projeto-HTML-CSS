@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+  <head>
+  		    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+          <title>Página de curriculos</title>
+              <link href="format.css" rel="stylesheet" type="text/css">
+  </head>
+             
+      <frameset border="5" bordercolor="blue" cols="15%,85%" >
+		<frame SRC="pagina.html" NORESIZE SCROLLING="NO"> 
+		<hr>    
+      <frameset rows="100%">
+      
+      <hr>
+      <frame SRC="pagina1.html" name="central">
+      </frameset>
+      
+<footer>
+      
+</footer>
+
+</html>
+      

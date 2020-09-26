@@ -1,0 +1,182 @@
+
+body{
+	background-color:yellow;
+	wigth: 50px;
+	
+    }
+#fundo{
+text-align: center;
+background-color:#ff6;
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+font-size: 12px;
+
+}
+#fundo h1{
+text-align: center;
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+font-size: 24px;
+color: black;
+background-color: goldenrod;
+
+}
+#meio {
+margin-left: 1px;
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+font-size: 12px;
+}
+#border{
+text-align: left;;
+border:2px solid #5c6f91;
+background-color: white;
+padding-left: 10px;
+-moz-border-radius:10px;
+-webkit-border-radius: 10px;
+border-radius:10px;
+}
+#border1{
+text-align: left;;
+border:2px solid #5c6f91;
+background-color: greenyellow;
+padding-left: 10px;
+-moz-border-radius:10px;
+-webkit-border-radius: 10px;
+border-radius:10px;
+}
+h1{
+background-color: goldenrod;
+text-align: center;
+}
+hr{
+color: #f00;
+background-color: #f00;
+height: 5px;
+}
+a:link {
+ color: goldenrod;
+ text-decoration: none;
+ font-weight: bold;
+ border-width: 0px;
+ border-style: solid;
+ border-top-color: #DFDFDF;
+ border-right-color: #666;
+ border-bottom-color: #333;
+ border-left-color: #858585;
+
+}
+
+a:hover {
+ color:gold;
+ font-weight: bold;
+ border-color: #B1B1B1;
+}
+
+h2{
+background-color: yellowgreen;
+text-align: center;
+}
+#formcenter{
+text-align: center;
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+
+}
+label{
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+text-shadow: 2px 2px 2px #ccc;
+float: left;
+margin-right: 15px;
+text-align: right;
+font-weight: bold;
+line-height: 25px;
+font-size: 15px;
+width: 120px;
+
+
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+font-size: 15px;
+padding: 5px;
+border:1px solid #b9bdc1;
+width: 300px;
+color:#797979;
+
+border:1px solid #5c6f91;
+-moz-border-radius:10px;
+-webkit-border-radius: 10px;
+border-radius:10px;
+}
+#formacao{
+	font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+	font-size: 18px;
+	color: green;
+	text-align: left;
+}
+#formacao h2 {
+	font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+#formacao ol{
+   font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+	font-size: 16px;
+	color: black;
+	margin-left: 5px;
+	
+}
+#formacao li{
+   font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+	font-size: 16px;
+	color: green;
+	margin-left: 25px;
+	
+}
+#cursos h2{
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+font-size: 18px;
+color: black;
+text-align: center;
+
+}
+#cursos li{
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+font-size: 16px;
+color: green;
+text-align: left;
+
+}
+
+footer{
+font-family:  Tahoma,geneva,Arial,verdana,sans-serif;
+font-size: 12px;
+color: black;
+text-align: center;
+
+}
+.button{
+float: center;
+margin-left: 15px;
+font-weight: bold;
+line-height: 1px;
+padding: 6px 10px;
+cursor: pointer;
+color: blanchedalmond;
+text-align: center;
+text-shadow:  0 -1px 1px #64779e;
+background:black;
+background: -moz-linear-gradient(top,#a5b8da 0%,#7989b3,100%);
+background: -webkit-gradient(linear, 0% 0% 0% 100%, from(#a5b8da) , to(#7989b3));
+
+/* bordas do botton */
+
+border:1px solid #5c6f91;
+-moz-border-radius:10px;
+-webkit-border-radius: 10px;
+border-radius:10px;
+
+/* sombreamento*/
+
+-moz-box-shadow: inset 0 1px 0 0 #aec3e5;
+-webkit-box-shadow: inset 0 1px 0 0 #aec3e5;
+box-shadow: inset 0 1px 0 0  #aec3e5;
+
+}
+
+

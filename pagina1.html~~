@@ -1,0 +1,35 @@
+<!DOCTYPE>
+<html>
+  <head>
+     <meta charset="UTF-8" />
+     <title>--- Forms do HTML 5--- </title>
+     <link href="format.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+  <div id="fundo">
+      <header>
+         <!-- Cabeçalho da Página-->
+         <h1>Informações Pessoais </h1> 
+         </div>        
+      </header>
+         <article>
+         
+         <div id="meio">
+         
+             <p>Nome: Cristian </p>
+             <p>Cidade: <i>Carazinho </p>
+             <p>Telefone: ########### </p>
+             <p>Email: Cristian@hotmail.com </p>
+             
+          </div>
+          
+          </article>
+      
+      
+      
+      
+      
+      </body>
+      
+      </html>
+      

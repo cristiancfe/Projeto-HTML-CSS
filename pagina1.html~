@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+          <title>Página de curriculos</title>
+              <link href="format.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+  <div id="fundo">
+      <header>
+         <!-- Cabeçalho da Página-->
+         <h1>Informações Pessoais </h1> 
+         </div>        
+      </header>
+         <article>
+         
+         <div id="meio">
+        
+			
+			<div id="border">			
+			 Nome: Cristian Fabiano Eisenhut
+			</div>
+			
+			<br>
+			<div id="border">			
+			 Endereço: Rodrigues Alves, 46 - Centro
+			</div>			
+			
+			<br>
+			<div id="border">			
+          Telefone: 54 98436-1743
+			</div>
+			
+			<br>	
+			<div id="border">			
+			 Cidade: Carazinho
+			</div>							
+   	  		
+			<br>
+			<div id="border">			
+			 Email:cristiancfe@gmail.com
+			</div>
+			</div>	
+          
+          </article>
+           
+             
+      
+      </body>
+      
+      <footer>
+      
+      </footer>
+      
+      </html>
+      
